@@ -2,6 +2,6 @@
 optimizing for readmission rates for patients
 
 run (in this order)
-EDA Data Cleaning Code.ipynb
-Dataframe Generator.ipynb
-Meta Learner Tuning + Results.ipynb
+1. EDA Data Cleaning Code.ipynb 
+2. Dataframe Generator.ipynb
+3. Meta Learner Tuning + Results.ipynb
